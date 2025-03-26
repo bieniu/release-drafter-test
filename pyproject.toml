@@ -1,0 +1,4 @@
+[project]
+name = "lorem ipsum"
+version = "1.2.0"
+description = "Lorem Ipsum"
