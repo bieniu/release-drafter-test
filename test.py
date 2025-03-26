@@ -1,1 +1,1 @@
-print("lorem")
+print("lorem ipsum")
